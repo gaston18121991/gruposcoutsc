@@ -1,0 +1,65 @@
+.container {
+    background-image: url(100_0624.JPG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+span {
+    color: darkgreen;
+}
+
+h1,h2, p {
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+nav {
+    position: relative;
+    bottom: 8px;
+}
+
+.card-text {
+    color: green;
+}
+
+.text-label {
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    size: 14px;
+}
+
+.gallery-photos {
+    height: auto;
+    width: 100%;
+    background-color: green;
+}
+
+.title-page {
+    background-color:lightgrey;
+}
+
+.app-ctn{
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    background-color: white;
+    border-radius: 2%;
+}
+
+i{
+    padding: 5px;
+}
+
+iframe{
+    max-width: 100%;
+}
+
+.icon-footer{
+    background-color: white;
+    text-align: center;
+    width: 100%;
+    height: auto;
+    align-content: center;
+    padding: 5px;
+}
